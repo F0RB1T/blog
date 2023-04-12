@@ -5,7 +5,7 @@ pubDate: 2023-04-13
 description: 'New Update Find(Version 230413)'
 author: 'Jake Zhang'
 cover:
-    url: 'https://imgur.com/A22czeu'
+    url: 'https://i.imgur.com/A22czeu.png'
     square: 'https://i.imgur.com/A22czeu.png'
     alt: 'cover'
 tags: ["萌宠", "Doge", "Meow"]
